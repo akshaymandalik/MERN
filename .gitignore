@@ -6,3 +6,5 @@ database.txt
 mongodb.dmg
 node-crash-course.zip
 .DS_Store
+authkey
+authkey.pub
