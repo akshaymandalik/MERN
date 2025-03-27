@@ -1,0 +1,191 @@
+1. JavaScript
+Basic Topics:
+Basic Syntax, Data Types, and Variables
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+
+Control Flow (if/else, loops, switch)
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+
+Functions and Scope
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+DOM Manipulation and Event Handling
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model
+
+Intermediate Topics:
+Objects and Arrays (Destructuring, Spread/Rest operators)
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
+Asynchronous JavaScript (Callbacks, Promises, async/await)
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
+
+ES6+ Features (Template literals, Arrow functions, Modules)
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+Advanced Topics:
+Advanced Async Patterns (Async Iterators, Streams)
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncIterator
+
+JavaScript Design Patterns
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+Performance Optimization and Profiling
+
+https://developer.mozilla.org/en-US/docs/Web/Performance
+
+2. React
+Basic Topics:
+JSX Syntax and Expressions
+
+https://reactjs.org/docs/jsx-in-depth.html
+
+React Components (Functional Components, Props)
+
+https://reactjs.org/docs/components-and-props.html
+
+useState and Basic Hooks
+
+https://reactjs.org/docs/hooks-state.html
+
+Basic Routing with React Router
+
+https://reactrouter.com/
+
+Intermediate Topics:
+Component Lifecycle (Class Components)
+
+https://reactjs.org/docs/state-and-lifecycle.html
+
+React Router (Routing, Dynamic Routing)
+
+https://reactrouter.com/
+
+Form Handling (Controlled vs. Uncontrolled Components)
+
+https://reactjs.org/docs/forms.html
+
+State Management (Context API, Redux)
+
+https://reactjs.org/docs/context.html
+
+https://redux.js.org/
+
+Advanced Topics:
+Server-Side Rendering (SSR)
+
+https://reactjs.org/docs/react-dom-server.html
+
+React Performance Optimization
+
+https://reactjs.org/docs/optimizing-performance.html
+
+Advanced Testing with Jest & React Testing Library
+
+https://testing-library.com/docs/react-testing-library/intro/
+
+3. Node.js
+Basic Topics:
+Understanding Node.js and the Event Loop
+
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+
+File System Module
+
+https://nodejs.org/dist/latest-v16.x/docs/api/fs.html
+
+Modules and Package Management (npm)
+
+https://nodejs.org/dist/latest-v16.x/docs/api/modules.html
+
+Basic Express.js Setup
+
+https://expressjs.com/en/starter/installing.html
+
+Intermediate Topics:
+Express.js (Routing, Middleware)
+
+https://expressjs.com/en/guide/routing.html
+
+https://expressjs.com/en/guide/using-middleware.html
+
+RESTful API Development
+
+https://restfulapi.net/
+
+Authentication (JWT, Passport.js)
+
+https://jwt.io/introduction/
+
+http://www.passportjs.org/
+
+Working with Databases (MongoDB, PostgreSQL)
+
+https://mongoosejs.com/
+
+https://www.postgresql.org/docs/
+
+4. DSA in C/C++
+Basic Topics:
+Arrays, Linked Lists, Stacks, and Queues
+
+https://en.cppreference.com/w/cpp/container/array
+
+https://www.geeksforgeeks.org/data-structures/
+
+Linear and Binary Search
+
+https://www.geeksforgeeks.org/binary-search/
+
+https://www.geeksforgeeks.org/searching-algorithms/
+
+Sorting Algorithms (Bubble, Insertion)
+
+https://www.geeksforgeeks.org/bubble-sort/
+
+https://www.geeksforgeeks.org/insertion-sort/
+
+Intermediate Topics:
+Trees (Binary Trees, Binary Search Trees)
+
+https://www.geeksforgeeks.org/binary-tree-set-1-introduction/
+
+Sorting Algorithms (Merge Sort, Quick Sort)
+
+https://www.geeksforgeeks.org/merge-sort/
+
+https://www.geeksforgeeks.org/quick-sort/
+
+Graphs (Depth-First Search, Breadth-First Search)
+
+https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+
+https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+
+Advanced Topics:
+Graph Algorithms (Dijkstra, Floyd-Warshall)
+
+https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm/
+
+https://www.geeksforgeeks.org/floyd-warshall-algorithm/
+
+Dynamic Programming (Knapsack, Fibonacci)
+
+https://www.geeksforgeeks.org/0-1-knapsack-problem/
+
+https://www.geeksforgeeks.org/fibonacci-number/
+
+Advanced Data Structures (Trie, Segment Tree)
+
+https://www.geeksforgeeks.org/trie-insert-and-search/
+
+https://www.geeksforgeeks.org/segment-tree/
+
